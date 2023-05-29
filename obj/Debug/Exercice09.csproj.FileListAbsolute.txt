@@ -1,0 +1,14 @@
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Intro Prog\Exercice\Exercice09\bin\Debug\Exercice09.exe
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Intro Prog\Exercice\Exercice09\bin\Debug\Exercice09.pdb
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Intro Prog\Exercice\Exercice09\obj\Debug\Exercice09.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Intro Prog\Exercice\Exercice09\obj\Debug\Exercice09.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Intro Prog\Exercice\Exercice09\obj\Debug\Exercice09.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Intro Prog\Exercice\Exercice09\obj\Debug\Exercice09.exe
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Intro Prog\Exercice\Exercice09\obj\Debug\Exercice09.pdb
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Prog Intro\Exercice\Fait\Module 09\bin\Debug\Exercice09.exe
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Prog Intro\Exercice\Fait\Module 09\bin\Debug\Exercice09.pdb
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Prog Intro\Exercice\Fait\Module 09\obj\Debug\Exercice09.csproj.AssemblyReference.cache
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Prog Intro\Exercice\Fait\Module 09\obj\Debug\Exercice09.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Prog Intro\Exercice\Fait\Module 09\obj\Debug\Exercice09.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Prog Intro\Exercice\Fait\Module 09\obj\Debug\Exercice09.exe
+C:\Users\Bryan\OneDrive - Cégep de Sainte-Foy\Session 1\Prog Intro\Exercice\Fait\Module 09\obj\Debug\Exercice09.pdb
